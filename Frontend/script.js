@@ -1,5 +1,5 @@
 // Shared script for login, register, and todos pages
-const SERVER_URL = "http://localhost:8081";
+const SERVER_URL = "https://springboot-todo-jwt.onrender.com";
 function getToken() {
     return localStorage.getItem("token");
 }
