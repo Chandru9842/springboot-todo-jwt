@@ -62,6 +62,26 @@ Open `index.html` using Live Server
 ![Todo Dashboard](./assets/todo.png)
 
 ---
+## Live Demo
+
+Frontend: https://your-site.netlify.app
+Backend: https://springboot-todo-jwt.onrender.com
+
+---
+
+## Future upgrades
+
+To make it internship-level stronger:
+
+Swagger/OpenAPI
+Refresh token auth
+User profile page
+Responsive mobile UI
+React frontend
+Docker Compose
+CI/CD GitHub Actions
+
+---
 
 ## 📌 Future Improvements
 
