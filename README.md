@@ -52,7 +52,14 @@ Open `index.html` using Live Server
 
 ## 📸 Screenshots
 
-(Add your UI screenshot here)
+## 🏠 Login Page
+![Login Page](./assets/login.png)
+
+## 📝 Register Page
+![Register Page](./assets/register.png)
+
+## ✅ Todo Dashboard
+![Todo Dashboard](./assets/todo.png)
 
 ---
 
