@@ -64,7 +64,7 @@ Open `index.html` using Live Server
 ---
 ## Live Demo
 
-Frontend: https://your-site.netlify.app
+Frontend: https://smarttodo-manager.netlify.app/
 
 Backend: https://springboot-todo-jwt.onrender.com
 
