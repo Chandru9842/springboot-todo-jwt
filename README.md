@@ -74,13 +74,13 @@ Backend: https://springboot-todo-jwt.onrender.com
 
 To make it internship-level stronger:
 
-Swagger/OpenAPI
-Refresh token auth
-User profile page
-Responsive mobile UI
-React frontend
-Docker Compose
-CI/CD GitHub Actions
+* Swagger/OpenAPI
+* Refresh token auth
+* User profile page
+* Responsive mobile UI
+* React frontend
+* Docker Compose
+* CI/CD GitHub Actions
 
 ---
 
